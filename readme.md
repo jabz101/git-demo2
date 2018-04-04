@@ -12,8 +12,7 @@ Randoms removed nos
 
 Here are some files in the website.
 
-index
-
+new test from local server
 
 
 
